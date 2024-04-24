@@ -26,6 +26,11 @@ body{
     min-height: 100vh;
     display: blocked;
     position: fixed;
+    left: 270px;
+    top: 0;
+    right: 0;
+    z-index: 0;
+    opacity: 1;
 }
 /* aside */
 .aside{
@@ -34,5 +39,6 @@ body{
     position: fixed;
     left:0;
     top:0;
+    height: 100%;
     z-index: 10;
 }
