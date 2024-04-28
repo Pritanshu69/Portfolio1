@@ -99,5 +99,6 @@ ul{
 }
 .aside .nav li{
     margin-bottom: 20px;
-    
+    /* background-color: red; */
+    display: block;
 }
